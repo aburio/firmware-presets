@@ -1,4 +1,4 @@
-#$ TITLE: Tango 2 Modes
+#$ TITLE: Tango 2 modes
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: MODES
 #$ STATUS: OFFICIAL
