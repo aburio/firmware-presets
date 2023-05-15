@@ -6,6 +6,10 @@
 #$ AUTHOR: Aburio
 #$ DESCRIPTION: Global features & battery settings
 
+# hardware
+set acc_hardware = AUTO
+set baro_hardware = NONE
+
 # feature
 feature -RX_PPM
 feature -INFLIGHT_ACC_CAL
