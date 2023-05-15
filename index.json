@@ -138,16 +138,20 @@
     "category": [
       "MODES",
       "OSD",
+      "OTHER",
       "RATES"
     ],
     "author": [
       "Aburio"
     ],
     "keywords": [
+      "battery",
+      "features",
       "freestyle",
       "hd",
       "modes",
       "old",
+      "others",
       "rates",
       "Tango 2"
     ]
@@ -181,6 +185,23 @@
       "keywords": [
         "old",
         "hd"
+      ],
+      "author": "Aburio",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/global-features.txt",
+      "hash": "6e3e57ed00491334f883b43a427b1fad59d0c7bbfc96e4376aaf5424d2daba7c",
+      "title": "Global features & battery settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "OFFICIAL",
+      "keywords": [
+        "others",
+        "features",
+        "battery"
       ],
       "author": "Aburio",
       "priority": 0

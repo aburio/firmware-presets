@@ -1,0 +1,79 @@
+#$ TITLE: Global features & battery settings
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OTHER
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: others, features, battery
+#$ AUTHOR: Aburio
+#$ DESCRIPTION: Global features & battery settings
+
+# feature
+feature -RX_PPM
+feature -INFLIGHT_ACC_CAL
+feature -RX_SERIAL
+feature -MOTOR_STOP
+feature -SERVO_TILT
+feature -SOFTSERIAL
+feature -GPS
+feature -RANGEFINDER
+feature -TELEMETRY
+feature -3D
+feature -RX_PARALLEL_PWM
+feature -RX_MSP
+feature -RSSI_ADC
+feature -LED_STRIP
+feature -DISPLAY
+feature -OSD
+feature -CHANNEL_FORWARDING
+feature -TRANSPONDER
+feature -AIRMODE
+feature -RX_SPI
+feature -ESC_SENSOR
+feature -ANTI_GRAVITY
+feature RX_SERIAL
+feature OSD
+feature AIRMODE
+feature ANTI_GRAVITY
+
+# beeper
+beeper GYRO_CALIBRATED
+beeper RX_LOST
+beeper RX_LOST_LANDING
+beeper DISARMING
+beeper ARMING
+beeper ARMING_GPS_FIX
+beeper ARMING_GPS_NO_FIX
+beeper BAT_CRIT_LOW
+beeper BAT_LOW
+beeper GPS_STATUS
+beeper RX_SET
+beeper ACC_CALIBRATION
+beeper ACC_CALIBRATION_FAIL
+beeper READY_BEEP
+beeper MULTI_BEEPS
+beeper DISARM_REPEAT
+beeper ARMED
+beeper SYSTEM_INIT
+beeper ON_USB
+beeper BLACKBOX_ERASE
+beeper CRASH_FLIP
+beeper CAM_CONNECTION_OPEN
+beeper CAM_CONNECTION_CLOSE
+beeper RC_SMOOTHING_INIT_FAIL
+
+# beacon
+beacon RX_LOST
+beacon RX_SET
+
+# arm angle
+set small_angle = 180
+
+# blackbox
+set blackbox_sample_rate = 1/2
+set blackbox_device = SPIFLASH
+set debug_mode = GYRO_SCALED
+
+# vbat
+set vbat_max_cell_voltage = 430
+set vbat_full_cell_voltage = 410
+set vbat_min_cell_voltage = 330
+set vbat_warning_cell_voltage = 350
