@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: old, hd
+#$ KEYWORDS: osd, hd
 #$ AUTHOR: Aburio
 #$ DESCRIPTION: HD OSD
 
@@ -109,3 +109,4 @@ set osd_profile = 1
 set osd_profile_1_name = HD
 set osd_profile_2_name = -
 set osd_profile_3_name = -
+set osd_displayport_device = HD

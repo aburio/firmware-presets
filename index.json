@@ -150,7 +150,7 @@
       "freestyle",
       "hd",
       "modes",
-      "old",
+      "osd",
       "others",
       "rates",
       "Tango 2"
@@ -175,7 +175,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/hd-osd.txt",
-      "hash": "35abb808734bf6fed9ae7748d57adfd11285cc50ad2ca9d37efc53f0144d463a",
+      "hash": "89b54a545b49b0bb34c39189d509343a2e1190f496d2bf9cb1f01c341347dcbd",
       "title": "HD OSD",
       "firmware_version": [
         "4.4"
@@ -183,7 +183,7 @@
       "category": "OSD",
       "status": "OFFICIAL",
       "keywords": [
-        "old",
+        "osd",
         "hd"
       ],
       "author": "Aburio",
