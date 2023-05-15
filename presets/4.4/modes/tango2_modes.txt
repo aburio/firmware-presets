@@ -1,0 +1,18 @@
+#$ TITLE: Tango 2 Modes
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: Tango 2, modes
+#$ AUTHOR: Aburio
+#$ DESCRIPTION: Tango 2 Modes
+
+# map
+map TAER1234
+
+# aux
+aux 0 0 0 1950 2050 0 0
+aux 1 1 255 1950 2050 0 0
+aux 2 13 2 950 1050 0 0
+aux 3 26 1 950 1050 0 0
+aux 4 35 2 1950 2050 0 0
+aux 5 36 3 1950 2050 0 0

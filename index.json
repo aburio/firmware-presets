@@ -136,6 +136,7 @@
       "4.4"
     ],
     "category": [
+      "MODES",
       "RATES"
     ],
     "author": [
@@ -143,10 +144,28 @@
     ],
     "keywords": [
       "freestyle",
-      "rates"
+      "modes",
+      "rates",
+      "Tango 2"
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.4/modes/tango2_modes.txt",
+      "hash": "9271d09982c835411bc8540d3d4d59f54683836a1d66ceeb56cbe00a41dd37f4",
+      "title": "Tango 2 Modes",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "Tango 2",
+        "modes"
+      ],
+      "author": "Aburio",
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.4/rates/Freestyle.txt",
       "hash": "fcf96421f2795cbf2e5a9588c49007f4298f0f5f35e21158e0d80ae5d4e70275",
