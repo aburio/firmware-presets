@@ -109,4 +109,4 @@ set osd_profile = 1
 set osd_profile_1_name = HD
 set osd_profile_2_name = -
 set osd_profile_3_name = -
-set osd_displayport_device = HD
+set vcd_video_system = HD
